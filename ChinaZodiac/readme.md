@@ -1,20 +1,43 @@
-# 2.Ödev - Manav Kasa Programı
+# 4.Ödev - Çin Zodyapı Hesaplayan Program
 
-Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran program.  
+Java ile kullanıcıdan doğum tarihini alıp Çin Zodyağı değerini hesaplayan program.  
 
-Meyveler ve KG Fiyatları  
+Çin Zodyağı nedir? 
+-------------
 
-Armut : 2,14 TL  
-Elma : 3,67 TL  
-Domates : 1,11 TL  
-Muz: 0,95 TL  
-Patlıcan : 5,00 TL
+4000 bin yıldır kullanılan bir astroloji çeşididir Çin astrolojisi ve insanları 12 değişik burç ve sembollerle tanımlar. Çin Zodyağı bu 12 burcun eşit aralıklarla(10 derece genişliğinde) sıralandığı bir hayvan halkasıdır ve yıldızlarla pek bir ilgisi yoktur.  
 
-Örnek Çıktı;  
---
-Armut Kaç Kilo ? :0  
-Elma Kaç Kilo ? :1  
-Domates Kaç Kilo ? :1  
-Muz Kaç Kilo ? :2  
-Patlıcan Kaç Kilo ? :3  
-Toplam Tutar : 21.68 TL  
+Çin Zodyağı nasıl hesaplanır? 
+-------
+
+Çin zodyağı hesaplanırken kişinin doğum yılının 12 ile bölümünde kalana göre bulunur.  
+
+Doğum Tarihi %12 = 0 ➜ Maymun  
+
+Doğum Tarihi %12 = 1 ➜ Horoz  
+
+Doğum Tarihi %12 = 2 ➜ Köpek  
+
+Doğum Tarihi %12 = 3 ➜ Domuz  
+
+Doğum Tarihi %12 = 4 ➜ Fare  
+
+Doğum Tarihi %12 = 5 ➜ Öküz  
+
+Doğum Tarihi %12 = 6 ➜ Kaplan  
+
+Doğum Tarihi %12 = 7 ➜ Tavşan  
+
+Doğum Tarihi %12 = 8 ➜ Ejderha  
+
+Doğum Tarihi %12 = 9 ➜ Yılan  
+
+Doğum Tarihi %12 = 10 ➜ At  
+
+Doğum Tarihi %12 = 11 ➜ Koyun  
+
+Senaryo  
+----
+
+Doğum Yılınızı Giriniz : 1990  
+Çin Zodyağı Burcunuz : At
