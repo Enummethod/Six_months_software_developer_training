@@ -1,8 +1,9 @@
 # 10.Ödev - Fibonacci Serisi 
+Java döngüler ile fibonacci serisi bulan program.
 
 Koşullar
 ---
-Java döngüler ile fibonacci serisi bulan program yazıyoruz. Fibonacci serisinin eleman sayısını kullanıcıdan alın.  
+Fibonacci serisinin eleman sayısını kullanıcıdan alın.  
 
 Fibonacci Serisi Nedir ?
 ---
