@@ -91,7 +91,7 @@ Oyuncunun hayatta kalabilmesi için gereken malzemelerin toplanması.
    1. Deri Zırh  (20%)
    2. Demir Zırh (30%)
    3. Çelik Zırh (50%)
-4. Hiçbirşey     (45%) 
+4. Hiçbir şey    (45%) 
 ### Eşya Dükkanı
 
 - Özellik   : Ekipman Satın Alımı
