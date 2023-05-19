@@ -99,4 +99,12 @@ Oyuncunun hayatta kalabilmesi için gereken malzemelerin toplanması.
 - Zırhlar   : Deri , Demir, Çelik
 
 ### UML Diagramı
+![Başlıksız Diyagram (3)](https://github.com/Enummethod/Six_months_software_developer_training/assets/80968031/3bf9861d-9610-464c-8a1f-97592721cea8)
 
+### Ekran Görüntüleri
+![image](https://github.com/Enummethod/Six_months_software_developer_training/assets/80968031/71d94c31-e795-4969-98d2-dbd65b6aba57)
+
+----
+![image](https://github.com/Enummethod/Six_months_software_developer_training/assets/80968031/16ec03ac-e1e6-48aa-ba01-f9bd53fedccc)
+
+---
