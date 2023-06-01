@@ -1,7 +1,7 @@
 # 6 Aylık Yazılım Geliştirici Eğitimi
 |    ÖDEV | ÇÖZÜM
 |------------|----------|
-|1|[Vücut Kitle İndeksi Hesaplayan Program](https://github.com/Enummethod/Six_months_software_developer_training/blob/main/BMI/readme.md)|
+|1|[Vücut Kitle İndeksi Hesaplayan Program](https://github.com/Enummethod/Six_months_software_developer_training/blob/main/BMI)|
 |2|[Manav Kasa Programı](https://github.com/Enummethod/Six_months_software_developer_training/tree/main/GroceryStoreProgram)|
 |3|[Uçak Bileti Fiyatı Hesaplama](https://github.com/Enummethod/Six_months_software_developer_training/tree/main/FlightTicket)|
 |4|[Çin Zodyağı Hesaplama](https://github.com/Enummethod/Six_months_software_developer_training/tree/main/ChinaZodiac)|
