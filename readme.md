@@ -24,3 +24,4 @@
 |21|[Online Film Sistemi](https://github.com/Enummethod/Six_months_software_developer_training/tree/main/Online%20Movie%20System)|
 |22|[Asansör Simülasyonu](https://github.com/Enummethod/Six_months_software_developer_training/tree/main/Elevator%20Simulation)|
 |23|[Macera Oyunu](https://github.com/Enummethod/Six_months_software_developer_training/tree/main/AdventureGames)|
+|24|[Kendi Liste Sınıfımızı Yazmak](https://github.com/Enummethod/Six_months_software_developer_training/tree/main/MyList)|
