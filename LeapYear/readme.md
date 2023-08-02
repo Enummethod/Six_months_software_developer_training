@@ -1,4 +1,4 @@
-# 5.Ödev - Artık YIl Hesaplama 
+# 5.Ödev - Artık Yıl Hesaplama 
 Java ile kullanıcının girdiği yılın artık olup olmadığını bulan program.
 
 
