@@ -1,5 +1,4 @@
-## Kendi Liste Sınıfımızı Yazmak
-
+# 24.Ödev - Kendi Liste Sınıfımızı Yazmak
 
 Java'da generic yapısını kullanarak verileri tuttuğumuz bir sınıf tasarlıyoruz.
 
